@@ -67,4 +67,4 @@ Open the link and click "Install this script" to import it into Tampermonkey in 
 # Final Notes
 This script runs entirely locally in your browser. It never uploads any billing or account data to third-party servers. There are no ads or background external requests; it is lightweight and non-intrusive to the webpage.
 
-If you want to quickly tally up years of your Steam game expenses, feel free to install and try it out. You may leave comments for any usage issues encountered.
+If you want to quickly tally up years of your Steam game expenses, feel free to install and try it out. You may submit [issues](https://github.com/hee1310/SteamSpendTotal/issues) for any usage problems encountered.

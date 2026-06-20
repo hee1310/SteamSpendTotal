@@ -66,4 +66,4 @@ Greasy Fork 脚本地址：<https://greasyfork.org/scripts/583431>
 
 # 写在最后
 脚本完全本地运行，不会上传任何账单、账号数据至第三方，无广告、无后台请求，轻量化无侵入页面。
-如果你也想快速统计自己 Steam 多年游戏消费，不妨安装试试，有使用问题可以在评论区留言。
+如果你也想快速统计自己 Steam 多年游戏消费，不妨安装试试，有使用问题可以在[issues](https://github.com/hee1310/SteamSpendTotal/issues)提出。

@@ -71,4 +71,4 @@ Open the link and tap "Install this script" to import it straight into Tampermon
 This entire script runs purely locally on your browser—zero billing logs, account details or personal data get uploaded to any third-party servers whatsoever!
 No ads, no hidden background data calls, lightweight and non-intrusive to your page, safe and utterly adorable (๑>ᴗ<๑)
 If you wanna find out exactly how much treasure you’ve splurged on Steam, hurry up and install this script right meow!
-If you hit any snags while using it, feel free to call out to this kitty in the comment section!
+If you hit any snags while using it, feel free to call out to this kitty in the [issues](https://github.com/hee1310/SteamSpendTotal/issues)!

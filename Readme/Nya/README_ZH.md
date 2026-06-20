@@ -70,4 +70,4 @@ Greasy Fork 腳本網址：https://greasyfork.org/scripts/583431
 腳本完全在本機執行，不會上傳任何帳單、帳號資料給第三方
 無廣告、無後台請求，輕巧不侵入頁面，安全又可愛(๑>ᴗ<๑)
 想快速知道自己在Steam砸了多少錢，趕快安裝試試～
-有問題歡迎在留言區戳本喵喔！
+有問題歡迎在[issues](https://github.com/hee1310/SteamSpendTotal/issues)戳本喵喔！
