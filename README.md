@@ -1,10 +1,10 @@
 # Steam消费总额查看 - Tampermonkey脚本
 ## 阅读其他语言版本
 ### 主文档
-简体中文 | [English](Readme/README_EN.md) | [日本語](Readme/README_JP.md) | [繁體中文](Readme/README_ZH.md)
+简体中文 | [English](/Readme/README_EN.md) | [日本語](/Readme/README_JP.md) | [繁體中文](/Readme/README_ZH.md)
 
 ### 喵语文档
-[简体喵语](Readme/Nya/README.md) | [Lolcat](Readme/Nya/README_EN.md) | [NYA](Readme/Nya/README_JP.md) | [繁體喵语](Readme/Nya/README_ZH.md)
+[简体喵语](/Readme/Nya/README.md) | [Lolcat](/Readme/Nya/README_EN.md) | [NYA](/Readme/Nya/README_JP.md) | [繁體喵语](/Readme/Nya/README_ZH.md)
 
 每次想统计自己在Steam上一共花了多少钱都十分麻烦：官方账单分页展示，需要手动不停点加载更多，再逐条区分消费、退款，手动计算金额。
 为此我写了一款轻量油猴脚本 **Steam消费总额查看**，自动拉取全部账单、区分订单类型、自动计算总花费与退款，支持多区服货币、多语言、本地缓存与多重防卡死机制。
