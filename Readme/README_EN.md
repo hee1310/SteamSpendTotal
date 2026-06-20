@@ -1,7 +1,7 @@
 # Steam Total Spending Check - Tampermonkey Script
 ## Read Documentation in Other Languages
 ### MainDocs
-[简体中文](/Readme/README.md) | English | [日本語](/Readme/README_JP.md) | [繁體中文](/Readme/README_ZH.md)
+[简体中文](/README.md) | English | [日本語](/Readme/README_JP.md) | [繁體中文](/Readme/README_ZH.md)
 
 ### NekoDocs
 [简体喵语](/Readme/Nya/README.md) | [Lolcat](/Readme/Nya/README_EN.md) | [NYA](/Readme/Nya/README_JP.md) | [繁體喵语](/Readme/Nya/README_ZH.md)

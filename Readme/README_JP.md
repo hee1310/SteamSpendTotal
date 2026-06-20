@@ -1,10 +1,10 @@
 # Steam消費金額合計確認 - Tampermonkeyスクリプト
 ## 他言語版ドキュメントを閲覧
 ### メインドキュメント
-[简体中文](/README.md) | [English](Readme/README_EN.md) | 日本語 | [繁體中文](Readme/README_ZH.md)
+[简体中文](/README.md) | [English](/Readme/README_EN.md) | 日本語 | [繁體中文](/Readme/README_ZH.md)
 
 ### Nya版資料
-[简体喵语](Readme/Nya/README.md) | [Lolcat](Readme/Nya/README_EN.md) | [NYA](Readme/Nya/README_JP.md) | [繁體喵语](Readme/Nya/README_ZH.md)
+[简体喵语](/Readme/Nya/README.md) | [Lolcat](/Readme/Nya/README_EN.md) | [NYA](/Readme/Nya/README_JP.md) | [繁體喵语](/Readme/Nya/README_ZH.md)
 
 自分がSteamにいくら使ったか集計するのは非常に手間がかかります。公式の利用明細はページ分割表示されており、手動で「さらに読み込む」を連打し、購入と返金の注文を一つずつ仕分けて金額を手計算する必要があります。
 
